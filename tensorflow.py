@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""main.py: main script."""
+"""tensorflow.py: tensorflow script."""
 
 import numpy as np
 import pandas as pd
